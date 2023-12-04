@@ -15,6 +15,9 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 
 ## 📫 How to Reach Me
 - Email: Dennisnzioki019@gmail.com
+- **Instagram:** [instagram.com/denno_dnx/](https://www.instagram.com/denno_dnx/)
+- **Twitter:** [twitter.com/dnx_empire](https://twitter.com/dnx_empire)
+
 
 ## 📈 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&show_icons=true&hide=prs&theme=radical)](https://github.com/DNXEMPIRE-1)
