@@ -3,15 +3,15 @@
 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java, PHP, HTML, Python
-- **Databases:** MySQL
+- **Languages:** Kotlin, Java, PHP, HTML, Python, R
+- **Databases:** MySQL, Firebase
 - **Frontend:** React
 
 ## 🌱 Learning
-I'm currently diving into the world of Python to broaden my skill set.
+I'm currently diving into the world of Python and Bash to broaden my skill set.
     
 ## 🤝 Let's Collaborate!
-I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, and Python. If you have an exciting project or idea, feel free to reach out!
+I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learningand Python. If you have an exciting project or idea, feel free to reach out!
 
 ## 📫 How to Reach Me
 - Email: Dennisnzioki019@gmail.com
