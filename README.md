@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java, PHP, HTML, Python, R
+- **Languages:** Kotlin, Java, PHP, HTML, Python, R, UI/UX
 - **Databases:** MySQL, Firebase
 - **Frontend:** React
 
