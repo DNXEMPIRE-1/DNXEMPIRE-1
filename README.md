@@ -55,7 +55,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <h2 align="center">📈 GitHub Stats</h2>
 <h6 style="color:red">These stats are only for public repos they don't show private stats on projects for previous employers and clients.</h6>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNXEMPIRE-1&show_icons=true&locale=en&layout=compact" alt="DNXEMPIRE-1" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNXEMPIRE-1&show_icons=true&locale=en&layout=compact" alt="DNXEMPIRE-1" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&show_icons=true&locale=en" alt="DNXEMPIRE-1" /></p>
 
