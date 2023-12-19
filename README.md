@@ -49,10 +49,10 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 - [LeetCode](https://leetcode.com/DNXEMPIRE-1/)
 - [HackerRank](https://www.hackerrank.com/profile/dennisnzioki019)
 
-## 📈 GitHub Stats
+
 <div align="center" margin="100px 0 0 0">
 
-<h2 align="center">Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 <h6 style="color:red">These stats are only for public repos it doesn't show private stats on projects for previous employers and clients.</h6>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNXEMPIRE-1&show_icons=true&locale=en&layout=compact" alt="DNXEMPIRE-1" /></p>
