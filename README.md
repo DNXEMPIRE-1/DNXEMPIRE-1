@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX design and have experie
 - **Frontend:** React
 
 ## 🌱 Learning
-I'm currently diving into the world of Python and Bash to broaden my skill set.
+I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
 
 <h2 align="center">Skills</h2>
 
@@ -53,7 +53,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">📈 GitHub Stats</h2>
-<h6 style="color:red">These stats are only for public repos it doesn't show private stats on projects for previous employers and clients.</h6>
+<h6 style="color:red">These stats are only for public repos they don't show private stats on projects for previous employers and clients.</h6>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNXEMPIRE-1&show_icons=true&locale=en&layout=compact" alt="DNXEMPIRE-1" /></p>
 
