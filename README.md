@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-  <img src="IMG-20200217-WA0000.jpg" alt="Circular Profile Picture" style="border-radius:10%;">
-</div>
+![Circular Profile Picture](IMG-20200217-WA0000.jpg)
+
 
 # Hi there! 👋 I'm Dennis Nzioki DNX
 
