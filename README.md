@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="[[https://your-image-url.com](https://github.com/DNXEMPIRE-1/DNXEMPIRE-1/blob/main/IMG-20200217-WA0000.jpg)](https://github.com/DNXEMPIRE-1/DNXEMPIRE-1/blob/1bd7e386297bb1aafe7bbba3d85bb80b04696993/IMG-20200217-WA0000.jpg)" alt="Circular Profile Picture" style="border-radius:50%;">
+  <img src="IMG-20200217-WA0000.jpg" alt="Circular Profile Picture" style="border-radius:50%;">
 </div>
 
 # Hi there! 👋 I'm Dennis Nzioki DNX
