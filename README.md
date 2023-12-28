@@ -8,10 +8,36 @@
 - 💬 Ask me about **Software Development**
 
 ## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java, PHP, HTML, Python, R, UI/UX
-- **Databases:** MySQL, Firebase
-- **Frontend:** React
-
+- **Programming Languages:**
+- Kotlin, Java, PHP, HTML, Python, R, UI/UX
+- **Frontend Development:**
+- 
+- **Backend Development:**
+- MySQL, Firebase
+- **Mobile App Development:**
+- React
+- **AI/ML:**
+- 
+- **Database:**
+- 
+- **Data Visualization:**
+- 
+- **Devops:**
+- 
+- **Backend as a Service(BaaS):**
+- 
+- **Framework:**
+- 
+- **Game Engines:**
+- 
+- **Static Site Generators:**
+- 
+- **Software:**
+- 
+- **Testing:**
+- 
+- **Other:**
+- 
 ## 🌱 Learning
 - 🔭 I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
 
