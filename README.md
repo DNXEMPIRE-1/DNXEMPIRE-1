@@ -71,13 +71,19 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="![DNXEMPIRE-1's Stats](https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&theme=radical&show_icons=true&hide_border=true&count_private=false)"/>
-  <img width=390 src="![DNXEMPIRE-1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DNXEMPIRE-1&theme=radical&hide_border=true)" />
-  <br/>
-  <img width=325 align="center" src="![DNXEMPIRE-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNXEMPIRE-1&theme=radical&show_icons=true&hide_border=true&layout=compact)" />
-</div>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DNXEMPIRE-1&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 <br/><br/>
 
