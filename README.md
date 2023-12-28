@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://your-image-url.com" alt="Circular Profile Picture" style="border-radius:50%;">
+</div>
+
 # Hi there! 👋 I'm Dennis Nzioki DNX
 
 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .
