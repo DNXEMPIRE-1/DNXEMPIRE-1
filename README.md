@@ -1,7 +1,9 @@
 
 
 # Hi there! 👋 I'm Dennis Nzioki DNX
-
+<div style="text-align:center;">
+  <img src="1.png" alt="Circular Profile Picture" style="border-radius:50%;">
+</div>
 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .
 
 ## 🔧 Technologies & Tools
