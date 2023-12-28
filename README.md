@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm Dennis Nzioki DNX
 
-<div style="display:flex; align-items:center;">
-  <img src="1.png" alt="Circular Profile Picture" style="width: 100px; border-radius:50%; margin-right: 20px;">
-  <p>Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
+  <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
 </div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 💬 Ask me about **Software Development**
 
 ## 🔧 Technologies & Tools
 - **Languages:** Kotlin, Java, PHP, HTML, Python, R, UI/UX
@@ -11,7 +12,7 @@
 - **Frontend:** React
 
 ## 🌱 Learning
-I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
+- 🔭 I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
 
 <h2 align="center">Skills</h2>
 
