@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nziok+DNX!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;" />
 </h1>
   <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
 </div>
