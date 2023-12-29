@@ -71,7 +71,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 
 <hr/>
 
-Let's connect and build something amazing together! 💻✨
+🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 
 
 <!---
