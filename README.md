@@ -20,7 +20,7 @@
 
     
 ## 🤝 Let's Collaborate!
-I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learningand Python. If you have an exciting project or idea, feel free to reach out!
+I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
 
 ## 📫 How to Reach Me
 - [![Gmail](https://img.shields.io/badge/Email-Dennisnzioki019@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:Dennisnzioki019@gmail.com)
