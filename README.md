@@ -5,7 +5,7 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 💬 Ask me about **Software Development** and **UI/UX** [Tap]
+- 💬 Ask me about **Software Development** and **UI/UX**
 - ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
 
