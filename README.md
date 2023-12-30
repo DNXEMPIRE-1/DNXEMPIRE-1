@@ -27,6 +27,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dnx_empire)
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dennis-nzioki-983878241/)
 <img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
+
 ## 🏆 Hackathon Participation
 - **Hackathon Name:** CYBER CHALLENGE BY BSIDES
   - *Description:* CTF Challenge.
