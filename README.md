@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;" />
 </h1>
@@ -23,7 +21,7 @@
     
 ## 🤝 Let's Collaborate!
 I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
-
+<img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
 ## 📫 How to Reach Me
 - [![Gmail](https://img.shields.io/badge/Email-Dennisnzioki019@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:Dennisnzioki019@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denno_dnx/)
