@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;" />
 </h1>
