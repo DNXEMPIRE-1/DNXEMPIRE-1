@@ -53,7 +53,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2> 
 
 ## My Stats:
 <p align="center">
@@ -70,11 +70,10 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=brightgreen)
 <hr/>
 
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
-
+![Profile Views](https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=brightgreen)
 <!---
 DNXEMPIRE-1/DNXEMPIRE-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
