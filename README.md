@@ -1,6 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;" />
+    <p align="center">
+  <a href="https://github.com/DNXEMPIRE-1">
+    <img src="https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=blue&style=flat)" />
+  </a>
+</p>
 </h1>
+
   <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
 </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -73,7 +79,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <hr/>
 
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
-![Profile Views](https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=brightgreen)
+
 <!---
 DNXEMPIRE-1/DNXEMPIRE-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
