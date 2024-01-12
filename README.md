@@ -7,15 +7,12 @@
 </p>
 </h1>
 
-
   <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
 </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 💬 Ask me about **Software Development** and **UI/UX**
 - ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
-
-
 
 ## 🔧 Technologies & Tools
 
@@ -24,7 +21,6 @@
 
 ## 🌱 Learning
 - 🔭 I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
-
 
     
 ## 🤝 Let's Collaborate!
