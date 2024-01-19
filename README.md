@@ -8,9 +8,9 @@
     
 </h1>
 
-  <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and have experience with Kotlin, Java, PHP, MySQL, HTML, and React. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
+  <p>👨‍💻 Welcome to my GitHub profile! I'm passionate about UI/UX design and Software Development. Currently, I'm expanding my skills by learning Python, R and three.js .</p>
 </div>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 💬 Ask me about **Software Development** and **UI/UX**
 - ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
