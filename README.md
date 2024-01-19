@@ -3,7 +3,6 @@
     <p align="center">
   <a href="https://github.com/DNXEMPIRE-1">
     <img src="https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=blue&style=flat)" />
-      <img src=https://private-user-images.githubusercontent.com/121759424/285669999-de78ac3b-f9a4-48bf-9230-e23e59f21052.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2NDE3MjAsIm5iZiI6MTcwNTY0MTQyMCwicGF0aCI6Ii8xMjE3NTk0MjQvMjg1NjY5OTk5LWRlNzhhYzNiLWY5YTQtNDhiZi05MjMwLWUyM2U1OWYyMTA1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOVQwNTE3MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGUzMTcwNzY1MGIzY2Y0YWEzNWFiODRkYzMzN2I3YzJkOWYyOGM0YmI2NjE5MDU3N2MxM2EyMjA3NjkxZjhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.371j38pHImk9YlvkKt-VbVKfDNmq4Hp5vfeY53rjEWM />
   </a>
 </p>
     
@@ -76,6 +75,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <br/><br/>
 
 <hr/>
+<img src=https://private-user-images.githubusercontent.com/121759424/285669999-de78ac3b-f9a4-48bf-9230-e23e59f21052.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2NDE3MjAsIm5iZiI6MTcwNTY0MTQyMCwicGF0aCI6Ii8xMjE3NTk0MjQvMjg1NjY5OTk5LWRlNzhhYzNiLWY5YTQtNDhiZi05MjMwLWUyM2U1OWYyMTA1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOVQwNTE3MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGUzMTcwNzY1MGIzY2Y0YWEzNWFiODRkYzMzN2I3YzJkOWYyOGM0YmI2NjE5MDU3N2MxM2EyMjA3NjkxZjhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.371j38pHImk9YlvkKt-VbVKfDNmq4Hp5vfeY53rjEWM />
 
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 
