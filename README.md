@@ -19,7 +19,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
 
 
 ## 🔧 Technologies & Tools
