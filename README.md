@@ -14,6 +14,13 @@
 
 - 💬 Ask me about **Software Development** and **UI/UX**
 - ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true">
+
 
 ## 🔧 Technologies & Tools
 
