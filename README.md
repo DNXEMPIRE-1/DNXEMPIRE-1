@@ -30,7 +30,6 @@
 
 ## 🌱 Learning
 - 🔭 I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
-
     
 ## 🤝 Let's Collaborate!
 I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
@@ -48,23 +47,15 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 ## 💻 Coding Challenges
 - [LeetCode](https://leetcode.com/DNXEMPIRE-1/)
 - [HackerRank](https://www.hackerrank.com/profile/dennisnzioki019)
-
-
 <div align="center" margin="100px 0 0 0">
-
-<br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/><br/>
 </div>
-
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2> 
 
 ## My Stats:
@@ -79,12 +70,8 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DNXEMPIRE-1&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-
 <br/><br/>
-
 <hr/>
-<img src=https://private-user-images.githubusercontent.com/121759424/285669999-de78ac3b-f9a4-48bf-9230-e23e59f21052.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2NDE3MjAsIm5iZiI6MTcwNTY0MTQyMCwicGF0aCI6Ii8xMjE3NTk0MjQvMjg1NjY5OTk5LWRlNzhhYzNiLWY5YTQtNDhiZi05MjMwLWUyM2U1OWYyMTA1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOVQwNTE3MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGUzMTcwNzY1MGIzY2Y0YWEzNWFiODRkYzMzN2I3YzJkOWYyOGM0YmI2NjE5MDU3N2MxM2EyMjA3NjkxZjhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.371j38pHImk9YlvkKt-VbVKfDNmq4Hp5vfeY53rjEWM />
-
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 
 <!---
