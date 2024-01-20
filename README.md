@@ -21,6 +21,9 @@
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://open.spotify.com/user/uizjxhjvpxamrgljuu0hj9uk7"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300" ></a>
 
 
 ## 🔧 Technologies & Tools
