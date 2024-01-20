@@ -23,7 +23,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://open.spotify.com/user/uizjxhjvpxamrgljuu0hj9uk7"><img src="[https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg](https://github.com/DNXEMPIRE-1/DNXEMPIRE-1/blob/main/default.svg)" height="130" width="300" ></a>
+<a href="https://open.spotify.com/user/uizjxhjvpxamrgljuu0hj9uk7"><img src="default.svg" height="130" width="300" ></a>
 
 
 ## 🔧 Technologies & Tools
@@ -77,7 +77,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <hr/>
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 <!--🦶FOOTER--> 
-<img src="https://github.com/DNXEMPIRE-1/DNXEMPIRE-1/blob/main/footer.svg" width="100%">
+<img src="footer.svg" width="100%">
 <!---
 DNXEMPIRE-1/DNXEMPIRE-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
