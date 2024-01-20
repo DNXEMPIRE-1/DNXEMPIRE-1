@@ -73,7 +73,6 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DNXEMPIRE-1&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-<br/><br/>
 <hr/>
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 <!--🦶FOOTER--> 
