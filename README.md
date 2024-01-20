@@ -74,7 +74,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <hr/>
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/82213791fa9ff58d3ca768ddd6de2489ec23ffca/ima/footer.svg" width="100%">
 <!---
 DNXEMPIRE-1/DNXEMPIRE-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
