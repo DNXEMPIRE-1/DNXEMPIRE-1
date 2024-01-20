@@ -23,7 +23,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://open.spotify.com/user/uizjxhjvpxamrgljuu0hj9uk7"><img src="default.svg" height="130" width="300" ></a>
+<a href="https://open.spotify.com/playlist/3DL1EGyNGgV0XgeoNF5y2p"><img src="default.svg" height="130" width="300" ></a>
 
 
 ## 🔧 Technologies & Tools
