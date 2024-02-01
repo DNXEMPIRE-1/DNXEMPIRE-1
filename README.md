@@ -65,12 +65,18 @@
 ## 🤝 Let's Collaborate!
 I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
 ## 📫 How to Reach Me
+
+<p align="center">
+
  [![Gmail](https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail)](mailto:Dennisnzioki019@gmail.com)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denno_dnx/)
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dnx_empire)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dennis-nzioki-983878241/)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!) 
+
+ </p>
  
+ <br><br> 
 <img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
 
 ## 🏆 Hackathon Participation
