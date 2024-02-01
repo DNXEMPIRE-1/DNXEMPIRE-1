@@ -37,13 +37,13 @@
  <img align="right" src="good-times.svg" width="10%">   
 </a>
  <h2 align="center" width="20" >
-   【H o b b i e s】
+   【Harmony Haven】
 </h2>
 
 
 <a href="https://github.com/DNXEMPIRE-1"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/DNXEMPIRE-1"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
