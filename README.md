@@ -56,7 +56,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
   <br/><br/>
 </div>
 <hr/>
