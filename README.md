@@ -1,8 +1,13 @@
-<h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;">
-    <a href="https://github.com/DNXEMPIRE-1">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>
+<h1> 
+    <p align="center">
+        <a href="https://github.com/DNXEMPIRE-1">  
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;">
+        </a>
+         <a href="https://github.com/DNXEMPIRE-1">   
+            <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+        </a>
+    </p>
+       
  <p align="center">
   <a href="https://github.com/DNXEMPIRE-1">
     <img src="https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=blue&style=flat)" />
