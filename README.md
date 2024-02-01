@@ -22,6 +22,30 @@
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
+    <a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+<a href="https://github.com/DNXEMPIRE-1">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
+ <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
+ </a>
+  <a href="https://github.com/DNXEMPIRE-1"> 
+ <img align="left" src="good-times.svg" width="10%">   
+</a>
+<a href="https://github.com/DNXEMPIRE-1"> 
+ <img align="right" src="good-times.svg" width="10%">   
+</a>
+ <h2 align="center" width="20" >
+   【H o b b i e s】
+</h2>
+
+
+<a href="https://github.com/DNXEMPIRE-1"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/walidbosso"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://open.spotify.com/playlist/3DL1EGyNGgV0XgeoNF5y2p"><img src="default.svg" height="130" width="300" ></a>
