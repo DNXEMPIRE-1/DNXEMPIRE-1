@@ -65,7 +65,7 @@
 </p>
 
 ## 🌱 Learning
-- 🔭 I'm currently diving into the world of Python, three.js and Bash to broaden my skill set.
+- 🔭 I'm currently diving into the world of Python, three.js and Vue.js to broaden my skill set.
     
 ## 🤝 Let's Collaborate!
 I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
