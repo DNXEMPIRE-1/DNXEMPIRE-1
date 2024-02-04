@@ -98,7 +98,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
   <br>
     <a href="https://github.com/DNXEMPIRE-1">
      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
-  <br/><br/>
+ 
 </div>
 <hr/>
 <h2 align="center">⚡My Stats ⚡</h2> 
