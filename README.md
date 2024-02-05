@@ -1,7 +1,7 @@
 <h1> 
     <p align="center">
         <a href="https://github.com/DNXEMPIRE-1">  
-            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Nzioki+DNX!;">
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Dennis+Nzioki+DNX!;">
         </a>
          <a href="https://github.com/DNXEMPIRE-1">   
             <img align="right" src="gif.gif" width="170">
@@ -78,10 +78,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dnx_empire)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dennis-nzioki-983878241/)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!) 
-
  </p>
- 
- <br><br> 
 <img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
 
 ## 🏆 Hackathon Participation
