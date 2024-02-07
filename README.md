@@ -47,8 +47,6 @@
  <h2 align="center" width="20" >
    【Harmony Haven】
 </h2>
-
-
 <a href="https://github.com/DNXEMPIRE-1"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
 <a href="https://github.com/DNXEMPIRE-1"> 
