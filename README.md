@@ -7,7 +7,6 @@
             <img align="right" src="gif.gif" width="170">
         </a>
     </p>
-       
  <p align="center">
   <a href="https://github.com/DNXEMPIRE-1">
     <img src="https://komarev.com/ghpvc/?username=DNXEMPIRE-1&color=blue&style=flat)" />
