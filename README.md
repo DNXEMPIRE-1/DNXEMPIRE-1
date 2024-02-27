@@ -77,12 +77,12 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dennis-nzioki-983878241/)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!) 
  </p>
-<img align="right" alt="Coding" width="400" src="20231230_165231.jpg">
 
 ## 🏆 Hackathon Participation
 - **Hackathon Name:** CYBER CHALLENGE BY BSIDES
   - *Description:* CTF Challenge.
   - *2023*
+ 
 ## 💻 Coding Challenges
 - [LeetCode](https://leetcode.com/DNXEMPIRE-1/)
 - [HackerRank](https://www.hackerrank.com/profile/dennisnzioki019)
