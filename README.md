@@ -14,7 +14,7 @@
 </p> 
 </h1>
 
-  <p><h3 align="center"> A passionate Developer/Designer from Nairobi,KE. </h3>
+  <p><h3 align="center"> A passionate Developer/Designer from Nairobi, KE. </h3>
       
 <p align="center">
 🌐 The transformative impact of computer technology fascinates me, bringing unforeseen changes to our lives. Since a young age, witnessing the evolution of computer science has fueled my passion for studying software engineering. 🚀 My enthusiasm has only grown over time. Exploring new tech stacks is my love 💻, and using them to craft cool stuff is my ultimate thrill! 🛠️ Let's code the future together! 🌟</p>
