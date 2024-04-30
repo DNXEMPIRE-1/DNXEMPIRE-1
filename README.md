@@ -30,7 +30,10 @@
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
-    <a href="https://github.com/walidbosso">
+    <a href="https://github.com/DNXEMPIRE-1">
+<!--😂🃏Riddle  -->
+<p align="center">
+<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula" alt="Riddle Card" >
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
