@@ -79,8 +79,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!) 
  </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -92,7 +91,6 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
-</details>
 
 
 ## 🏆 Hackathon Participation
