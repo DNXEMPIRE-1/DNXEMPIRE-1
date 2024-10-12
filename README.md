@@ -79,6 +79,21 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+254717783146&text=Hi!) 
  </p>
 
+ ## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  </a>
+</div>
+<br>
+<br>
+
 ## 🏆 Hackathon Participation
 - **Hackathon Name:** CYBER CHALLENGE BY BSIDES
   - *Description:* CTF Challenge.
