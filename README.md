@@ -122,7 +122,7 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 
 <p align="center">
   <a href="https://github.com/DNXEMPIRE-1">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DNXEMPIRE-1&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DNXEMPIRE-1&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats"/>
 </a> 
 </p>
 <p align="center">
