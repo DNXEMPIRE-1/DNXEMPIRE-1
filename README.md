@@ -115,21 +115,25 @@ I'm open to collaboration on projects related to UI/UX, Kotlin, Java, PHP, MySQL
 <h2 align="center">⚡My Stats ⚡</h2> 
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DNXEMPIRE-1&hide_border=true&show_icons=true&count_private=true&theme=cobalt&bg_color=00000000">
 </p>
+
 
 ## Activity On GitHub
 
-<p align="center">
-  <a href="https://github.com/DNXEMPIRE-1">      
-<img title="stats" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=DNXEMPIRE-1&theme=cobalt")](https://git.io/streak-stats"/>
-</a> 
-</p>
+ <p>
+    <a href="https://github.com/DNXEMPIRE-1/github-readme-streak-stats">
+      <img title="🔥 DNXEMPIRE-1 Streks" alt="DNXEMPIRE-1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DNXEMPIRE-1&theme=cobalt&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
 <p align="center">
     <a href="https://github.com/DNXEMPIRE-1">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNXEMPIRE-1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNXEMPIRE-1&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000" width="100%" alt="activity graph">
     </a>
 </p>
+
+
 🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
 <!--🦶FOOTER--> 
 <img src="footer.svg" width="100%">
